@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Clean_Achitecture_Android</string>
+    <string name="no_data">No Data</string>
+    <string name="get_data">GET DATA</string>
+    <string name="put_data_here">Put data here</string>
+    <string name="save_data">SAVE DATA</string>
 </resources>
